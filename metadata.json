@@ -1,0 +1,5 @@
+{
+  "name": "JurnalCheck AI",
+  "description": "An AI-powered tool to check the quality and reputation of scientific journals indexed in Scopus and Sinta. Get detailed metrics, reputation analysis, and tips for authors in seconds.",
+  "requestFramePermissions": []
+}
